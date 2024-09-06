@@ -1,0 +1,5 @@
+2024-09-05 22:58:18,809 - ERROR - Error al crear usuario: Expecting property name enclosed in double quotes: line 1 column 40 (char 39) - Datos: {"nombre": "Marj", "apellido": "Impy", email": "mimpy5@youku.com", "genero": "Non-binary"}
+2024-09-05 22:58:18,809 - ERROR - Error al crear usuario: Expecting value: line 1 column 88 (char 87) - Datos: {"nombre": "Robena", "apellido": "Selcraig", "email": "rselcraig7@jugem.jp", "genero": Female}
+2024-09-05 22:58:34,650 - ERROR - Error al crear usuario: Expecting ',' delimiter: line 1 column 99 (char 98) - Datos: {"nombre": "Nissy", "apellido": "Dell Casa", "email": "ndellcasa2@godaddy.com", "genero": "Female"
+2024-09-05 22:58:34,650 - ERROR - Error al crear usuario: Expecting property name enclosed in double quotes: line 1 column 40 (char 39) - Datos: {"nombre": "Marj", "apellido": "Impy", email": "mimpy5@youku.com", "genero": "Non-binary"}
+2024-09-05 22:58:34,650 - ERROR - Error al crear usuario: Expecting value: line 1 column 88 (char 87) - Datos: {"nombre": "Robena", "apellido": "Selcraig", "email": "rselcraig7@jugem.jp", "genero": Female}
